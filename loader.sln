@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loader", "loader\loader.vcxproj", "{3A976198-B75F-4956-952E-63BB981CC70E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "server", "server\server.vcxproj", "{11AA5412-8C92-4C66-9210-0EAF58C221B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		rel|64 bit = rel|64 bit
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A976198-B75F-4956-952E-63BB981CC70E}.rel|64 bit.ActiveCfg = rel|x64
+		{3A976198-B75F-4956-952E-63BB981CC70E}.rel|64 bit.Build.0 = rel|x64
+		{11AA5412-8C92-4C66-9210-0EAF58C221B2}.rel|64 bit.ActiveCfg = rel|x64
+		{11AA5412-8C92-4C66-9210-0EAF58C221B2}.rel|64 bit.Build.0 = rel|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
